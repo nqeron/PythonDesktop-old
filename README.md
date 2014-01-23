@@ -10,3 +10,7 @@ Currently, many of these will error out.
 Future:
 
 Unless I want to display this information on my desktop again (unlikely), I will not be working on these.
+
+----
+
+I have also included some old scripts to integrate with Quicksilver, such that when triggered by ActionScript, they would upload the given documents to Google Docs.
